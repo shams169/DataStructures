@@ -23,7 +23,6 @@ def insertionWithwhile(data):
             hole = hole -1
         data[hole] = val
     return data
-
         #print(data)
 
 
